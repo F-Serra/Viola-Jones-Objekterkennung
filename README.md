@@ -1,2 +1,2 @@
 # Viola-Jones-Objekterkennung
-Diplomarbeit - Flugzeugerkennung auf Satellitenbildern
+[Diplomarbeit](diplomarbeit.pdf) - Flugzeugerkennung auf Satellitenbildern mit Hilfe von Kaskaden-Klassifizierern und Haar/Local-Binary-Pattern.
